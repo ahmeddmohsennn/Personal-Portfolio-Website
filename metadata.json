@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Coder Portfolio",
+  "description": "A high-fidelity dynamic portfolio for a Physician Software Engineer (Doctor Specializing in Healthcare EMR, Clinical AI, and HIPAA Integrations). Includes a live Clinical AI analysis sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --font-serif: "Georgia", ui-serif, Georgia, Cambria, serif;
+}
+
+/* Artistic Flair theme styles */
+.grid-bg {
+  background-image: radial-gradient(#64748b 0.6px, transparent 0.6px);
+  background-size: 24px 24px;
+  background-color: #f8fafc;
+}
+
+.serif-display {
+  font-family: var(--font-serif);
+}
+
+.mono-code {
+  font-family: var(--font-mono);
+}
+
+.medical-accent {
+  color: #0ea5e9; /* Sky-500 from the design specs */
+}
+
+/* Fine-tune layout transitions and details */
+@layer utilities {
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-fade-in {
+    animation: fade-in 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+}
+
+/* Custom scrollbars for code panels */
+.scrollbar-thin::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: #020617; /* Slate 950 */
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #334155; /* Slate 700 */
+  border-radius: 3px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #475569; /* Slate 600 */
+}
+
