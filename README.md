@@ -1,6 +1,3 @@
-> [!TIP]
-> ### 🚀 [Click Here to View the Live Portfolio Website](
-github.com/ahmeddmohsennn/Personal-Portfolio-Website)
 A specialized, highly optimized portfolio website designed to showcase the intersection of advanced frontend development and clinical medical expertise. This platform bridges the gap between medical sciences and software engineering, targeted directly at clinical institutions, digital health startups, healthcare organizations, and clients seeking specialized **Medical Coding**, **Health Informatics**, or **Healthcare UI/UX Development**.
 
 ---
