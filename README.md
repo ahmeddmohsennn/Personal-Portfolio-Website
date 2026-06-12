@@ -1,4 +1,5 @@
-## Preview the project live through this link **  elaborate-meerkat-d1d80e.netlify.app
+> [!TIP]
+> ### 🚀 [Click Here to View the Live Portfolio Website](https://your-username.github.io/your-repo-name/)
 A specialized, highly optimized portfolio website designed to showcase the intersection of advanced frontend development and clinical medical expertise. This platform bridges the gap between medical sciences and software engineering, targeted directly at clinical institutions, digital health startups, healthcare organizations, and clients seeking specialized **Medical Coding**, **Health Informatics**, or **Healthcare UI/UX Development**.
 
 ---
@@ -51,9 +52,7 @@ Accessible Architecture: Enforced ARIA attributes and structured content flow en
 📬 Professional Contact & Collaboration
 Are you looking for an engineer who speaks fluent clinical medicine and understands medical coding compliance? Let's build safer, cleaner, and faster healthcare interfaces.
 
-Email: [your.email@domain.com]
-
-LinkedIn: [Your LinkedIn URL]
+Email: ahmeddmohsenn7@gmail.com
 
 Academic Affiliation: Final Year Medical Student | Expected Graduation: November 2027
 
